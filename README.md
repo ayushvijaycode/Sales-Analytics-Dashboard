@@ -12,6 +12,26 @@ A Streamlit application for uploading, validating, cleaning, filtering, and anal
 - Interactive Plotly charts and reusable statistical-summary functions.
 - Download the cleaned, filtered data as CSV.
 
+
+## 🚀 Live Demo
+
+<p align="center">
+  <a href="https://sales-analytics-dashboard-vmdezvgu3nbmrmfwkxmuuf.streamlit.app/">
+    <img src="https://img.shields.io/badge/OPEN-LIVE%20DASHBOARD-brightgreen?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live Dashboard">
+  </a>
+</p>
+
+**Explore the Sales Analytics Dashboard live!**
+
+Experience interactive sales analysis, dynamic KPIs, data preprocessing, statistical summaries, and interactive visualizations directly in your browser.
+
+**Live Application:**  
+https://sales-analytics-dashboard-vmdezvgu3nbmrmfwkxmuuf.streamlit.app/
+
+---
+
+
+
 ## Run locally
 
 ```bash
